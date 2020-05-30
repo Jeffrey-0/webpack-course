@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  background: pink;
+  display: flex;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+body {
+  background: #00000055;
+}
+body #div1 {
+  width: 100px;
+  height: 100px;
+  background: #340030;
+}
+body #div2 {
+  width: 100px;
+  height: 100px;
+  background: #239023;
+  transform: translateY(90px);
+  display: flex;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+

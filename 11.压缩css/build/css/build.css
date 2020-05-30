@@ -1,0 +1,1 @@
+html{height:100%;background:pink;display:flex;-webkit-backface-visibility:hidden;backface-visibility:hidden}body{background:rgba(0,0,0,.33)}body #div1{background:#340030}body #div1,body #div2{width:100px;height:100px}body #div2{background:#239023;transform:translateY(90px);display:flex;-webkit-backface-visibility:hidden;backface-visibility:hidden}

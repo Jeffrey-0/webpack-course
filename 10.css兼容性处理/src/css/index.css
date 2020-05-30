@@ -1,0 +1,6 @@
+html {
+  height: 100%;
+  background: pink;
+  display: flex;
+  backface-visibility: hidden;
+}
